@@ -4,7 +4,7 @@ import { IExternalLibraryProps } from "./IExternalLibraryProps";
 import { escape } from "@microsoft/sp-lodash-subset";
 
 import * as $ from "jquery";
-import * as JQueryUI from "jqueryui";
+import "jqueryui";
 
 import { SPComponentLoader } from "@microsoft/sp-loader";
 
