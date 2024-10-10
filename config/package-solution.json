@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "external-library-client-side-solution",
+    "id": "55b791d2-a663-4e04-b08b-442a0a996e12",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/external-library.sppkg"
+  }
+}
